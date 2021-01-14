@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyNotesKotlin</string>
+    <string name="btn_add_note">Добавить</string>
+    <string name="start_label">Что выбрать</string>
+    <string name="start_btn_room">ROOM</string>
+    <string name="title">Заметки</string>
+    <string name="note_enter_name">Заполните поле с названием заметки</string>
+    <string name="btn_firebase">firebase</string>
+    <string name="email_hint">email</string>
+    <string name="password_hint">password</string>
+    <string name="btn_login">Login</string>
+</resources>

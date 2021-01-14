@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "250257716435",
+    "firebase_url": "https://notes-b2bfb-default-rtdb.firebaseio.com",
+    "project_id": "notes-b2bfb",
+    "storage_bucket": "notes-b2bfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250257716435:android:2b8b04a66ee05165071026",
+        "android_client_info": {
+          "package_name": "my.utils.mynoteskotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250257716435-vd1hlk6qibgt6s5ddbe2caemqa60k0uq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGvHCtZS2fBYAVwGe2aqvpEoPS5A_Wn20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250257716435-vd1hlk6qibgt6s5ddbe2caemqa60k0uq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
